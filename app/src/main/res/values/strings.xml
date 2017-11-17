@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AlarmClock</string>
+    <string name="str_setAlarm">Set Alarm</string>
+    <string name="str_alarmOff">Alarm Off</string>
+    <string name="str_local_service_stopped">On destroy called</string>
+    <string-array name="music_array">
+        <item>Play a random alarm</item>
+        <item>Animal Crossing - 1 PM</item>
+        <item>Animal Crossing - 8 PM</item>
+        <item>Animal Crossing - Save Theme</item>
+        <item>Kirby Dream Land - Green Greens</item>
+        <item>Kirby Amazing Mirror - Rainbow Route</item>
+        <item>Kirby Amazing Mirror - Stage Clear</item>
+        <item>LoZ Minish Cap - Fairy Fountain</item>
+        <item>Mother 3 - Love Theme</item>
+        <item>Pokemon RSE - Dive</item>
+        <item>Super Mario Sunshine - Isle Delfino</item>
+    </string-array>
+</resources>
